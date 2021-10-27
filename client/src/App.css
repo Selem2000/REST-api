@@ -1,0 +1,65 @@
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  color: #fff !important;
+}
+
+.save-btn {
+  color: black !important;
+  background: #f0a500 !important;
+  width: 8%;
+  padding: 7px 15px !important;
+  font-size: 17px !important;
+  font-weight: 600 !important;
+}
+.list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.contact-box {
+  margin: 30px;
+}
+.name-part {
+  width: 300px;
+  background: #da0037;
+  height: 165px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  /* width: 80%; */
+  margin: 5% 10%;
+  align-items: center;
+  height: 50vh;
+  justify-content: space-around;
+}
+
+.name {
+  color: #ededed;
+  font-size: 40px;
+}
+.des-part {
+  display: flex;
+  flex-direction: column;
+  background: #444444;
+  justify-content: space-between;
+}
+.des {
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  color: #ededed;
+  font-size: 20px;
+}
+.btns {
+  display: flex;
+  background: #444444;
+  justify-content: space-around;
+}
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  width: 80%;
+  margin: 0 10% !important;
+}
